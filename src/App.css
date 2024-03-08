@@ -1,0 +1,23 @@
+html {
+  background-color: #FCFFFF;
+}
+
+.leaflet-container {
+  height: 70vh;
+  margin-bottom: 1rem;
+  border-radius: 1.5rem;
+  border-style: solid;
+  border-width: thin;
+  border-color: #25B4E7;
+}
+
+.page {
+  margin-top: 2rem;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+}
+
+.bar {
+  display: flex;
+}
