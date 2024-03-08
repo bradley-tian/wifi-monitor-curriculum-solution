@@ -1,4 +1,5 @@
-# WiFi Issue Reporting Heatmap Interface
-## 2023 UC Berkeley Mobile App Project
+# Wifi Monitor Curriculum Project - Solution
 
-This is a frontend prototype of a WiFi issue display / report interface. All content should be viewed and implemented for testing purposes only. 
+Created by Bradley Tian (bradley_tian@berkeley.edu)
+
+For PlexTech Curriculum Use Only. Do not redistribute.
